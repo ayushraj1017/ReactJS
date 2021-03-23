@@ -1,0 +1,141 @@
+.top-menu{
+  background-color: lightsalmon;
+  height: 50px;
+  border: .1vh solid rgb(68, 68, 68);
+}
+
+.delete-button{
+  margin-top: 0px;
+  margin-left: 150px;
+  height: 35px;
+  width: 65px;
+  
+}
+
+.delete-button:hover{
+  background-color: red;
+}
+
+.edit-button{
+  height: 35px;
+  width: 65px;
+}
+
+.edit-button:hover{
+  background-color: cadetblue;
+}
+
+input[name="top_search"]{
+  float: right;
+  margin-top: 5px;
+  margin-right: 5px;
+  height: 35px;
+  width: 250px;
+}
+
+.delete-button-main{
+  margin-left: 30px;
+  height: 35px;
+  width: 75px;
+}
+
+.delete-button-main:hover{
+  background-color: red;
+}
+
+.edit-button:hover{
+  background-color: rosybrown;
+}
+
+.edit-button-main{
+  margin-left: 5px;
+  height: 35px;
+  width: 75px;
+}
+
+.edit-button-main:hover{
+  background-color: rosybrown;
+}
+
+.buttons-div{
+  margin-top: -30px;
+}
+
+.header-todolist h1{
+  background-color: rgb(247, 178, 151);
+  text-align: center;
+  color: snow;
+  margin-top: 0px;
+  border: .1vh solid rgb(68, 68, 68);
+  }
+  
+.outer-container{
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.left-menu{
+  display: table-cell;
+  width: 30%;
+  vertical-align: top;
+  margin: -10px;
+  padding: 0px;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  height: 100%;
+}
+
+.right-menu{
+  display: table-cell;
+  width: 70%;
+  vertical-align: top;
+}
+
+input[name="taskName"]{
+margin-top: 20px;
+margin-left: 30px;
+width: 70%;
+height: 50px;
+}
+  
+textarea[name="description"]{
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 95%;
+  height: 140px;
+}
+
+.todo_style{
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+input[name="edit-input"]{
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 70%;
+  height: 140px;
+}
+
+h6{
+  font-size: 15px;
+  margin-top: 0px;
+  margin-left: 0px;
+  }
+  
+.saving-button{
+  width: 20%;
+  margin-top: 10px;
+  margin-left: 150px;
+  }
+
+.saving-button:hover{
+  background-color: green;
+}
+
+ 
+
+
+
+
