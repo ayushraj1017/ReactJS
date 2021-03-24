@@ -1,0 +1,30 @@
+*{
+  background-color: antiquewhite;
+}
+
+.calculator-app{
+  width: 100%;
+  height: 100%;
+}
+
+.calculator-heading{
+  text-align: center;
+  background-color: rgba(255, 129, 83, 0.274);
+  border: .1px solid whitesmoke;
+}
+
+.loan-amount{
+  text-align: center;
+  margin: 20px;
+}
+
+input[name="calculator-name"]{
+  height: 30px;
+  width: 250px;
+  padding: 6px;
+  
+}
+
+.ETableCellText{
+background-color: rgb(255, 129, 83);
+}
